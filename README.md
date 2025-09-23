@@ -1,48 +1,56 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Hieu Thanh</h1>
-<h3 align="center">🎓 Student from Vietnam | 📍 HUFLIT</h3>
+<h3 align="center">💻 Student at HUFLIT | 🎨 Graphic Designer | 🌏 Vietnam</h3>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hieuthanh1209&label=Profile%20views&color=0e75b6&style=flat" alt="hieuthanh1209" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hieuthanh1209&theme=tokyonight&margin-w=10&margin-h=10" alt="trophies"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hieuthanh1209&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 ---
 
-## 🌱 About Me  
-- 🔭 I’m currently learning **UI/UX Design, Software Engineering**  
-- 🎨 Check out my graphic design works on [Behance](https://www.behance.net/thanhhieu0051)  
-- 📄 My resume: [LinkedIn](https://www.linkedin.com/in/thanhhieu5100/)  
+## 🚀 My Journey  
+
+- 🎓 **2023 – Present**: Studying **Software Engineering** at **HUFLIT**
+- 📸 **2024 - 2025**: Full-time Video Editor / Content Creator at 1 9 6 7 Entertainment
+- 🎨 **2016 – Present**: Freelance Graphic Designer → [Behance Portfolio](https://www.behance.net/thanhhieu0051)
+-  Updating...
 
 ---
 
-## 🤝 Connect with Me  
+## 📌 Quick Overview  
+| 🎯 About Me | - Student at HUFLIT. Passionate in UI/UX <br> - Resume: [LinkedIn](https://www.linkedin.com/in/thanhhieu5100/) |
+|-------------|:--------------|
+| 🛠 Tech Stack | ![skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,nodejs,mysql,mongodb,firebase,git,docker,figma,ps,ai) |
+---
+
+## 📊 More Stats  
+
 <p align="center">
-  <a href="https://linkedin.com/in/thanhhieu5100"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://fb.com/thanhhieu0051"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/></a>
-  <a href="https://instagram.com/kevinhieu2005"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-  <a href="https://www.behance.net/thanhhieu0051"><img src="https://skillicons.dev/icons?i=behance" alt="Behance"/></a>
-  <a href="https://www.youtube.com/c/thanhhieu0051"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieuthanh1209&layout=compact&theme=light&hide_border=true" height="162"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hieuthanh1209&show_icons=true&theme=light&hide_border=true" height="162"/>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🏆 Achievements  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,c,dotnet,cs,css,html,js,nodejs,mysql,mongodb,sqlite,postgresql,git,docker,firebase,figma,ps,ai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hieuthanh1209&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" alt="trophies"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🌐 Connect with Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieuthanh1209&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieuthanh1209&show_icons=true&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <a href="https://linkedin.com/in/thanhhieu5100"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+  <a href="https://fb.com/thanhhieu0051"><img src="https://skillicons.dev/icons?i=facebook" alt="facebook"/></a>
+  <a href="https://instagram.com/kevinhieu2005"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/></a>
+  <a href="https://www.behance.net/thanhhieu0051"><img src="https://skillicons.dev/icons?i=behance" alt="behance"/></a>
+  <a href="https://www.youtube.com/c/thanhhieu0051"><img src="https://skillicons.dev/icons?i=youtube" alt="youtube"/></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
