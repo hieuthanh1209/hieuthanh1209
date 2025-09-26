@@ -8,9 +8,8 @@
 ---
 
 ## 🚀 My Journey  
-
-- 🎓 **2023 – Present**: Studying **Software Engineering** at **HUFLIT**
 - 📸 **2024 - 2025**: Full-time Video Editor / Content Creator at 1 9 6 7 Entertainment
+- 🎓 **2023 – Present**: Studying **Software Engineering** at **HUFLIT**
 - 🎨 **2016 – Present**: Freelance Graphic Designer → [Behance Portfolio](https://www.behance.net/thanhhieu0051)
 -  Updating...
 
